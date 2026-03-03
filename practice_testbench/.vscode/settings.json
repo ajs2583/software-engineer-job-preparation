@@ -1,0 +1,4 @@
+{
+    "editor.wrapOnEscapedLineFeeds": true,
+    "ruff.lint.enable": false
+}
